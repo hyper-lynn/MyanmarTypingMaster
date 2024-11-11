@@ -1,4 +1,4 @@
-# myanmartypingtutor
+# Myanmar Typing Master
 
 ![software demon](https://github.com/hyper-lynn/MyanmarTypingMaster/blob/main/assets/Screenshot%20(14).png)
 
