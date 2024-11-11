@@ -1,5 +1,5 @@
 name: myanmartypingtutor
-description: "Burmese typing software refers to computer programs and applications designed to enable users to type in the Burmese language, which uses the Burmese script (also known as Myanmar script). The language is primarily spoken in Myanmar (Burma) and is one of the country's official languages. Due to the complexity of the script and its unique characters, typing in Burmese requires specialized software to accommodate these distinct features."
+description: "Burmese typing software refers to computer programs and applications designed to enable users to train their computer typing in the Burmese language.Due to the complexity of the language and its unique characters, typing in Burmese requires specialized software to accommodate these distinct features."
 # The following line prevents the package from being accidentally published to
 # pub.dev using `flutter pub publish`. This is preferred for private packages.
 publish_to: 'none' # Remove this line if you wish to publish to pub.dev
